@@ -2,8 +2,7 @@
 
 
  This project enables us to use hand gestures to control the system's volume.
- By pointing our index finger up to increase the volume and down to decrease the volume.
-
+ When the index finger points up the volume increases and when pointed down it decreases.
 
 
 
