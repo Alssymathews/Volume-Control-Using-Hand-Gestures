@@ -1,7 +1,7 @@
 # Volume-Control-Using-Hand-Gestures
 
 
- we use hand gestures to control the system's volume by pointing our index finger up to increase the volume and down to decrease the volume.
+ We use hand gestures to control the system's volume by pointing our index finger up to increase the volume and down to decrease the volume.
 
 
 
